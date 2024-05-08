@@ -1,0 +1,6 @@
+This is a sample text file!!.
+It contains several sentences,
+each separated by punctuation marks!
+
+The goal is \ to count the number of words in this file.
+Let's see how the program handles different formatting and punctuation styles.
